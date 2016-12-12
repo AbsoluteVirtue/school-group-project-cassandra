@@ -1,0 +1,10 @@
+C:\Users\Irina\Downloads\PAD_hw\PAD_5_REST\Node\bin\Debug\Node.exe.config
+C:\Users\Irina\Downloads\PAD_hw\PAD_5_REST\Node\bin\Debug\Node.exe
+C:\Users\Irina\Downloads\PAD_hw\PAD_5_REST\Node\bin\Debug\Node.pdb
+C:\Users\Irina\Downloads\PAD_hw\PAD_5_REST\Node\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Irina\Downloads\PAD_hw\PAD_5_REST\Node\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Irina\Downloads\PAD_hw\PAD_5_REST\Node\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Irina\Downloads\PAD_hw\PAD_5_REST\Node\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Irina\Downloads\PAD_hw\PAD_5_REST\Node\obj\Debug\Node.csprojResolveAssemblyReference.cache
+C:\Users\Irina\Downloads\PAD_hw\PAD_5_REST\Node\obj\Debug\Node.exe
+C:\Users\Irina\Downloads\PAD_hw\PAD_5_REST\Node\obj\Debug\Node.pdb
